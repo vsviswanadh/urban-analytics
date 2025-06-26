@@ -1,0 +1,349 @@
+State,City,Year,AQI,PM2.5,PM10,NO2,SO2,CO,O3
+Maharashtra,Mumbai,2019,82,68,156,21,25,1.79,135
+Maharashtra,Mumbai,2020,119,234,166,90,78,2.26,35
+Maharashtra,Mumbai,2021,126,188,295,69,77,0.56,103
+Maharashtra,Mumbai,2022,110,116,204,77,16,2.66,118
+Maharashtra,Mumbai,2023,110,196,103,92,54,1.67,133
+Maharashtra,Mumbai,2024,93,124,123,64,11,3.12,85
+Maharashtra,Pune,2019,116,139,239,55,53,2.95,64
+Maharashtra,Pune,2020,95,172,228,35,65,1.02,22
+Maharashtra,Pune,2021,121,45,290,97,68,1.59,150
+Maharashtra,Pune,2022,121,210,293,46,55,1.81,33
+Maharashtra,Pune,2023,91,123,108,85,57,0.99,125
+Maharashtra,Pune,2024,121,171,204,76,70,2.85,68
+Delhi (NCT),New Delhi,2019,90,93,99,85,39,3.06,73
+Delhi (NCT),New Delhi,2020,124,224,212,86,71,2.71,18
+Delhi (NCT),New Delhi,2021,72,100,105,60,68,0.59,72
+Delhi (NCT),New Delhi,2022,88,99,173,99,33,0.87,81
+Delhi (NCT),New Delhi,2023,103,65,196,39,12,3.41,141
+Delhi (NCT),New Delhi,2024,109,190,238,26,24,3.29,12
+Delhi (NCT),East Delhi,2019,108,195,63,88,76,2.48,103
+Delhi (NCT),East Delhi,2020,121,193,282,21,23,2.86,69
+Delhi (NCT),East Delhi,2021,92,83,115,84,17,2.94,106
+Delhi (NCT),East Delhi,2022,93,72,242,29,25,1.69,109
+Delhi (NCT),East Delhi,2023,110,175,118,63,18,3.28,123
+Delhi (NCT),East Delhi,2024,103,129,276,33,59,2.02,20
+Karnataka,Bengaluru,2019,120,249,123,69,28,3.42,80
+Karnataka,Bengaluru,2020,89,50,160,98,37,2.83,50
+Karnataka,Bengaluru,2021,105,72,259,41,48,1.93,114
+Karnataka,Bengaluru,2022,118,246,155,97,15,0.93,150
+Karnataka,Bengaluru,2023,128,219,217,73,58,1.93,108
+Karnataka,Bengaluru,2024,103,92,228,77,68,0.9,108
+Karnataka,Mysuru,2019,143,218,289,40,69,2.25,131
+Karnataka,Mysuru,2020,98,114,147,96,12,2.31,104
+Karnataka,Mysuru,2021,87,201,108,70,15,0.97,81
+Karnataka,Mysuru,2022,103,181,224,78,12,2.1,22
+Karnataka,Mysuru,2023,84,58,71,92,76,1.7,123
+Karnataka,Mysuru,2024,99,175,130,93,37,2.96,14
+Tamil Nadu,Chennai,2019,79,170,62,42,71,1.02,79
+Tamil Nadu,Chennai,2020,90,146,148,87,16,2.47,20
+Tamil Nadu,Chennai,2021,114,192,208,82,52,2.39,32
+Tamil Nadu,Chennai,2022,114,236,201,42,12,1.99,98
+Tamil Nadu,Chennai,2023,77,89,64,22,31,3.02,105
+Tamil Nadu,Chennai,2024,114,224,135,29,63,1.98,135
+Tamil Nadu,Coimbatore,2019,93,210,93,68,29,1.4,93
+Tamil Nadu,Coimbatore,2020,108,146,287,28,10,0.62,147
+Tamil Nadu,Coimbatore,2021,120,190,270,75,10,1.05,128
+Tamil Nadu,Coimbatore,2022,132,122,291,78,73,1.68,149
+Tamil Nadu,Coimbatore,2023,114,87,276,69,25,2.48,104
+Tamil Nadu,Coimbatore,2024,103,62,295,46,67,2.19,40
+Gujarat,Ahmedabad,2019,75,101,152,47,12,1.19,80
+Gujarat,Ahmedabad,2020,139,151,295,64,46,3.05,127
+Gujarat,Ahmedabad,2021,120,140,260,65,70,1.88,95
+Gujarat,Ahmedabad,2022,102,198,182,45,56,1.6,56
+Gujarat,Ahmedabad,2023,120,226,219,96,52,0.8,91
+Gujarat,Ahmedabad,2024,100,144,133,78,47,1.66,119
+Gujarat,Surat,2019,85,86,238,34,39,0.74,76
+Gujarat,Surat,2020,112,133,296,49,14,1.78,93
+Gujarat,Surat,2021,119,141,250,81,80,1.16,108
+Gujarat,Surat,2022,120,231,182,84,10,2.3,101
+Gujarat,Surat,2023,126,249,156,27,26,3.14,142
+Gujarat,Surat,2024,92,121,253,55,15,0.7,74
+Telangana,Hyderabad,2019,104,193,243,38,16,1.6,54
+Telangana,Hyderabad,2020,89,122,154,29,38,1.4,126
+Telangana,Hyderabad,2021,72,90,151,30,38,0.85,84
+Telangana,Hyderabad,2022,120,225,132,91,26,2.14,139
+Telangana,Hyderabad,2023,128,236,155,96,74,1.95,114
+Telangana,Hyderabad,2024,103,219,75,87,38,1.41,133
+Telangana,Warangal,2019,117,241,130,73,69,2.7,56
+Telangana,Warangal,2020,120,224,150,20,80,2.11,141
+Telangana,Warangal,2021,85,136,220,41,37,0.85,35
+Telangana,Warangal,2022,91,100,63,76,16,3.24,131
+Telangana,Warangal,2023,74,68,75,40,16,2.3,130
+Telangana,Warangal,2024,114,217,279,70,21,1.15,42
+West Bengal,Kolkata,2019,104,189,116,88,12,2.35,104
+West Bengal,Kolkata,2020,122,52,256,89,58,3.39,113
+West Bengal,Kolkata,2021,100,215,193,28,29,1.29,75
+West Bengal,Kolkata,2022,86,162,63,81,48,2.64,34
+West Bengal,Kolkata,2023,105,184,227,57,67,1.09,46
+West Bengal,Kolkata,2024,90,215,98,55,30,2.67,11
+West Bengal,Asansol,2019,82,156,122,28,70,1.82,27
+West Bengal,Asansol,2020,99,106,211,32,80,1.3,100
+West Bengal,Asansol,2021,115,177,261,63,27,2.07,63
+West Bengal,Asansol,2022,104,177,165,24,27,2.01,132
+West Bengal,Asansol,2023,76,43,84,32,32,2.99,117
+West Bengal,Asansol,2024,79,127,98,59,55,2.56,11
+Rajasthan,Jaipur,2019,105,79,192,29,12,3.37,150
+Rajasthan,Jaipur,2020,124,217,262,23,53,3.2,34
+Rajasthan,Jaipur,2021,75,83,78,62,79,0.79,114
+Rajasthan,Jaipur,2022,87,181,93,64,24,2.07,59
+Rajasthan,Jaipur,2023,101,211,133,26,47,0.92,143
+Rajasthan,Jaipur,2024,115,238,178,67,46,3.05,14
+Rajasthan,Jodhpur,2019,79,113,116,87,17,1.39,75
+Rajasthan,Jodhpur,2020,87,40,293,31,18,1.24,81
+Rajasthan,Jodhpur,2021,106,223,88,46,72,2.46,86
+Rajasthan,Jodhpur,2022,85,90,90,98,54,2.84,37
+Rajasthan,Jodhpur,2023,94,187,78,26,73,1.97,107
+Rajasthan,Jodhpur,2024,106,218,195,89,40,1.56,16
+Uttar Pradesh,Lucknow,2019,112,233,250,95,48,0.73,12
+Uttar Pradesh,Lucknow,2020,106,69,262,84,69,1.26,89
+Uttar Pradesh,Lucknow,2021,73,108,171,53,28,1.23,18
+Uttar Pradesh,Lucknow,2022,117,144,211,88,79,1.91,87
+Uttar Pradesh,Lucknow,2023,79,93,240,58,38,0.55,23
+Uttar Pradesh,Lucknow,2024,103,99,275,55,49,2.23,32
+Uttar Pradesh,Kanpur,2019,123,189,288,39,25,1.56,120
+Uttar Pradesh,Kanpur,2020,136,232,292,91,14,1.5,115
+Uttar Pradesh,Kanpur,2021,90,103,229,24,72,1.1,57
+Uttar Pradesh,Kanpur,2022,97,163,99,81,56,1.34,118
+Uttar Pradesh,Kanpur,2023,59,80,83,24,79,0.66,56
+Uttar Pradesh,Kanpur,2024,102,64,291,36,46,2.7,41
+Madhya Pradesh,Indore,2019,80,55,110,64,39,2.36,95
+Madhya Pradesh,Indore,2020,87,141,141,25,58,2.08,53
+Madhya Pradesh,Indore,2021,113,152,262,80,68,0.97,73
+Madhya Pradesh,Indore,2022,118,184,249,62,53,2.53,36
+Madhya Pradesh,Indore,2023,109,85,250,54,74,1.93,97
+Madhya Pradesh,Indore,2024,77,65,156,38,20,3.24,21
+Madhya Pradesh,Bhopal,2019,71,85,122,81,46,1.24,34
+Madhya Pradesh,Bhopal,2020,136,175,245,67,31,3.07,149
+Madhya Pradesh,Bhopal,2021,53,67,64,67,43,0.5,56
+Madhya Pradesh,Bhopal,2022,133,167,291,68,38,3.08,80
+Madhya Pradesh,Bhopal,2023,73,135,105,37,38,1.74,39
+Madhya Pradesh,Bhopal,2024,108,223,255,61,17,1.07,40
+Bihar,Patna,2019,108,58,262,92,49,1.26,125
+Bihar,Patna,2020,97,186,128,55,54,2.91,15
+Bihar,Patna,2021,94,177,68,64,39,1.65,137
+Bihar,Patna,2022,62,62,82,21,32,2.5,55
+Bihar,Patna,2023,133,215,277,60,28,3.46,49
+Bihar,Patna,2024,116,105,151,91,66,2.96,138
+Bihar,Gaya,2019,69,77,82,36,75,1.48,70
+Bihar,Gaya,2020,59,67,71,23,35,1.59,80
+Bihar,Gaya,2021,102,224,63,94,70,2.12,55
+Bihar,Gaya,2022,99,165,210,22,29,2.8,30
+Bihar,Gaya,2023,84,116,169,84,19,1.39,50
+Bihar,Gaya,2024,94,122,103,87,73,3.25,21
+Andhra Pradesh,Visakhapatnam,2019,110,205,219,44,31,1.29,98
+Andhra Pradesh,Visakhapatnam,2020,101,55,155,78,56,2.93,116
+Andhra Pradesh,Visakhapatnam,2021,98,224,103,21,70,2.8,33
+Andhra Pradesh,Visakhapatnam,2022,99,142,246,53,25,1.57,54
+Andhra Pradesh,Visakhapatnam,2023,99,185,128,78,57,0.59,119
+Andhra Pradesh,Visakhapatnam,2024,100,244,87,56,43,2.32,59
+Andhra Pradesh,Vijayawada,2019,73,125,148,20,37,1.41,42
+Andhra Pradesh,Vijayawada,2020,140,215,296,85,38,1.6,127
+Andhra Pradesh,Vijayawada,2021,138,190,285,76,42,2.82,94
+Andhra Pradesh,Vijayawada,2022,130,183,241,24,79,2.3,143
+Andhra Pradesh,Vijayawada,2023,121,221,165,23,76,2.4,122
+Andhra Pradesh,Vijayawada,2024,103,46,206,96,34,1.95,141
+Odisha,Bhubaneswar,2019,51,45,78,40,28,0.78,79
+Odisha,Bhubaneswar,2020,90,117,120,94,51,0.79,121
+Odisha,Bhubaneswar,2021,113,248,289,28,27,0.74,51
+Odisha,Bhubaneswar,2022,96,227,159,67,17,1.55,29
+Odisha,Bhubaneswar,2023,85,102,152,39,23,2.44,73
+Odisha,Bhubaneswar,2024,147,204,274,72,52,3.31,117
+Odisha,Cuttack,2019,108,212,82,66,79,3.11,57
+Odisha,Cuttack,2020,96,155,106,98,17,1.57,127
+Odisha,Cuttack,2021,115,174,281,74,31,1.64,48
+Odisha,Cuttack,2022,91,185,144,42,23,0.98,108
+Odisha,Cuttack,2023,126,202,249,99,42,0.92,118
+Odisha,Cuttack,2024,86,159,149,59,18,1.3,66
+Punjab,Ludhiana,2019,75,150,62,50,68,1.22,62
+Punjab,Ludhiana,2020,80,93,72,53,37,3.01,76
+Punjab,Ludhiana,2021,83,58,226,76,33,1.39,40
+Punjab,Ludhiana,2022,94,202,89,26,71,2.23,67
+Punjab,Ludhiana,2023,111,103,194,86,76,1.26,146
+Punjab,Ludhiana,2024,105,156,160,63,48,1.41,135
+Punjab,Amritsar,2019,80,175,142,68,32,0.74,27
+Punjab,Amritsar,2020,125,170,134,88,55,3.46,133
+Punjab,Amritsar,2021,124,147,295,83,30,1.5,114
+Punjab,Amritsar,2022,89,89,137,24,52,2.21,123
+Punjab,Amritsar,2023,97,109,137,60,47,1.86,138
+Punjab,Amritsar,2024,63,88,101,28,41,1.91,26
+Haryana,Faridabad,2019,110,80,229,100,64,3.45,15
+Haryana,Faridabad,2020,98,128,264,48,34,1.59,40
+Haryana,Faridabad,2021,107,207,157,99,35,0.96,100
+Haryana,Faridabad,2022,109,158,188,32,41,2.49,116
+Haryana,Faridabad,2023,88,237,62,26,26,0.63,146
+Haryana,Faridabad,2024,99,133,175,41,46,2.47,79
+Haryana,Gurgaon,2019,108,92,221,79,49,2.22,97
+Haryana,Gurgaon,2020,91,106,146,61,18,3.46,45
+Haryana,Gurgaon,2021,89,229,140,66,51,0.52,24
+Haryana,Gurgaon,2022,135,189,259,97,50,2.87,73
+Haryana,Gurgaon,2023,102,84,249,26,25,1.64,150
+Haryana,Gurgaon,2024,71,187,60,45,42,0.81,54
+Chhattisgarh,Raipur,2019,122,162,193,49,70,3.33,94
+Chhattisgarh,Raipur,2020,105,78,192,61,52,2.11,145
+Chhattisgarh,Raipur,2021,103,79,227,80,45,2.8,47
+Chhattisgarh,Raipur,2022,81,92,90,93,33,0.73,145
+Chhattisgarh,Raipur,2023,100,145,247,46,35,1.25,69
+Chhattisgarh,Raipur,2024,92,206,153,39,18,1.49,64
+Chhattisgarh,Bhilai,2019,108,234,241,22,58,0.64,61
+Chhattisgarh,Bhilai,2020,86,168,97,94,60,1.22,39
+Chhattisgarh,Bhilai,2021,111,249,110,75,22,2.95,68
+Chhattisgarh,Bhilai,2022,89,110,60,99,80,0.92,139
+Chhattisgarh,Bhilai,2023,119,168,211,27,78,3.39,64
+Chhattisgarh,Bhilai,2024,107,185,206,48,69,1.55,62
+Jharkhand,Ranchi,2019,92,178,136,85,52,1.38,34
+Jharkhand,Ranchi,2020,78,92,139,85,23,2.43,10
+Jharkhand,Ranchi,2021,92,109,199,61,51,1.97,36
+Jharkhand,Ranchi,2022,91,153,253,53,51,0.52,10
+Jharkhand,Ranchi,2023,121,234,171,75,38,2.41,91
+Jharkhand,Ranchi,2024,127,231,245,21,32,3.23,74
+Jharkhand,Jamshedpur,2019,66,110,97,31,30,1.05,80
+Jharkhand,Jamshedpur,2020,121,179,285,89,45,1.2,69
+Jharkhand,Jamshedpur,2021,127,226,259,89,74,1.87,26
+Jharkhand,Jamshedpur,2022,102,212,107,22,34,3.47,68
+Jharkhand,Jamshedpur,2023,126,88,246,100,53,2.51,149
+Jharkhand,Jamshedpur,2024,111,105,221,84,26,2.95,84
+Assam,Guwahati,2019,87,160,79,81,30,1.12,117
+Assam,Guwahati,2020,103,190,186,22,33,0.99,143
+Assam,Guwahati,2021,86,225,112,61,26,1.25,31
+Assam,Guwahati,2022,108,201,127,91,25,3.15,47
+Assam,Guwahati,2023,102,168,93,44,79,1.92,135
+Assam,Guwahati,2024,121,189,191,48,80,2.39,102
+Assam,Silchar,2019,112,176,249,37,21,3.44,17
+Assam,Silchar,2020,118,44,287,61,72,2.2,135
+Assam,Silchar,2021,86,135,79,54,42,1.29,145
+Assam,Silchar,2022,100,173,243,44,65,0.65,43
+Assam,Silchar,2023,85,54,147,65,39,2.32,94
+Assam,Silchar,2024,125,219,277,29,80,2.64,18
+Kerala,Kochi,2019,106,149,128,81,40,2.23,129
+Kerala,Kochi,2020,107,178,242,30,46,2.08,43
+Kerala,Kochi,2021,123,209,198,73,14,3.24,87
+Kerala,Kochi,2022,106,101,209,26,74,3.39,57
+Kerala,Kochi,2023,77,79,147,40,65,1.07,81
+Kerala,Kochi,2024,104,122,121,71,42,2.91,127
+Kerala,Thiruvananthapuram,2019,97,189,124,66,61,0.52,121
+Kerala,Thiruvananthapuram,2020,116,107,272,50,63,2.61,77
+Kerala,Thiruvananthapuram,2021,92,49,255,44,22,2.12,80
+Kerala,Thiruvananthapuram,2022,118,50,300,63,30,2.48,141
+Kerala,Thiruvananthapuram,2023,91,128,249,60,13,1.29,35
+Kerala,Thiruvananthapuram,2024,110,226,196,65,39,0.59,108
+Uttarakhand,Dehradun,2019,101,138,168,99,77,1.03,76
+Uttarakhand,Dehradun,2020,84,159,153,39,51,1.86,14
+Uttarakhand,Dehradun,2021,93,42,117,70,76,2.66,125
+Uttarakhand,Dehradun,2022,117,110,259,35,73,2.81,90
+Uttarakhand,Dehradun,2023,96,61,254,58,67,2.43,16
+Uttarakhand,Dehradun,2024,97,69,168,85,37,1.59,144
+Uttarakhand,Haridwar,2019,106,169,147,58,72,2.3,75
+Uttarakhand,Haridwar,2020,125,143,272,71,41,1.66,140
+Uttarakhand,Haridwar,2021,86,72,177,41,33,3.12,41
+Uttarakhand,Haridwar,2022,94,219,124,100,30,1.35,24
+Uttarakhand,Haridwar,2023,77,83,120,60,65,2.09,30
+Uttarakhand,Haridwar,2024,89,204,197,46,32,0.91,11
+Himachal Pradesh,Shimla,2019,108,209,139,41,16,1.89,149
+Himachal Pradesh,Shimla,2020,153,206,295,63,64,3.44,119
+Himachal Pradesh,Shimla,2021,112,170,194,21,70,2.94,72
+Himachal Pradesh,Shimla,2022,107,157,227,20,47,1.08,137
+Himachal Pradesh,Shimla,2023,111,116,282,44,22,1.21,145
+Himachal Pradesh,Shimla,2024,105,181,169,59,23,1.03,150
+Himachal Pradesh,Dharamshala,2019,88,45,231,38,80,1.76,46
+Himachal Pradesh,Dharamshala,2020,80,117,212,41,31,1.0,33
+Himachal Pradesh,Dharamshala,2021,103,222,180,23,13,2.19,72
+Himachal Pradesh,Dharamshala,2022,132,240,226,30,44,2.6,122
+Himachal Pradesh,Dharamshala,2023,101,200,219,22,46,1.2,62
+Himachal Pradesh,Dharamshala,2024,101,240,79,48,62,3.07,24
+Goa,Panaji,2019,108,226,64,97,50,1.74,128
+Goa,Panaji,2020,69,41,81,86,70,1.71,56
+Goa,Panaji,2021,98,99,128,92,54,2.45,98
+Goa,Panaji,2022,99,114,189,35,39,3.28,57
+Goa,Panaji,2023,126,124,297,92,54,1.17,135
+Goa,Panaji,2024,116,148,286,64,70,2.41,11
+Goa,Margao,2019,142,208,251,52,29,3.42,142
+Goa,Margao,2020,105,79,296,62,71,0.87,79
+Goa,Margao,2021,92,63,234,60,71,2.32,12
+Goa,Margao,2022,119,158,151,71,79,3.29,95
+Goa,Margao,2023,101,222,175,70,37,1.94,10
+Goa,Margao,2024,132,250,197,55,28,2.27,150
+Tripura,Agartala,2019,104,100,266,52,38,1.57,94
+Tripura,Agartala,2020,100,47,253,53,77,2.53,49
+Tripura,Agartala,2021,99,87,118,95,76,2.48,95
+Tripura,Agartala,2022,107,173,137,49,77,2.85,68
+Tripura,Agartala,2023,135,141,275,85,72,2.49,116
+Tripura,Agartala,2024,111,69,258,76,60,3.18,46
+Tripura,Udaipur,2019,87,140,70,52,67,2.76,58
+Tripura,Udaipur,2020,109,180,130,69,15,2.79,125
+Tripura,Udaipur,2021,102,67,282,79,52,1.78,43
+Tripura,Udaipur,2022,146,243,237,99,24,2.89,133
+Tripura,Udaipur,2023,87,163,121,45,17,3.39,12
+Tripura,Udaipur,2024,85,136,144,71,55,1.42,35
+Manipur,Imphal,2019,111,175,284,77,12,0.96,75
+Manipur,Imphal,2020,96,53,198,73,36,3.27,56
+Manipur,Imphal,2021,106,219,158,67,66,1.54,51
+Manipur,Imphal,2022,108,47,277,35,52,1.98,139
+Manipur,Imphal,2023,97,237,132,47,30,0.8,101
+Manipur,Imphal,2024,100,119,211,72,42,2.83,16
+Manipur,Thoubal,2019,110,58,273,73,71,1.1,130
+Manipur,Thoubal,2020,87,217,62,24,21,3.2,43
+Manipur,Thoubal,2021,100,50,275,21,73,1.44,109
+Manipur,Thoubal,2022,123,210,287,29,69,1.57,66
+Manipur,Thoubal,2023,126,242,266,20,29,3.15,47
+Manipur,Thoubal,2024,100,169,264,64,10,1.7,12
+Meghalaya,Shillong,2019,78,183,119,29,54,0.54,59
+Meghalaya,Shillong,2020,85,229,136,32,11,1.49,32
+Meghalaya,Shillong,2021,66,40,87,94,64,1.6,32
+Meghalaya,Shillong,2022,92,155,185,93,39,0.72,47
+Meghalaya,Shillong,2023,91,92,175,93,17,1.12,115
+Meghalaya,Shillong,2024,108,99,190,59,71,3.03,80
+Meghalaya,Tura,2019,107,81,253,46,64,1.94,105
+Meghalaya,Tura,2020,114,243,162,94,31,1.11,100
+Meghalaya,Tura,2021,118,128,184,88,72,3.42,66
+Meghalaya,Tura,2022,120,145,216,56,56,3.08,95
+Meghalaya,Tura,2023,98,55,285,45,53,2.38,35
+Meghalaya,Tura,2024,136,237,284,47,58,2.45,71
+Nagaland,Kohima,2019,100,116,142,45,68,2.74,96
+Nagaland,Kohima,2020,135,206,294,47,22,2.6,111
+Nagaland,Kohima,2021,123,210,277,47,23,2.79,43
+Nagaland,Kohima,2022,84,74,94,93,45,2.25,88
+Nagaland,Kohima,2023,117,205,181,58,76,2.47,64
+Nagaland,Kohima,2024,101,155,275,53,52,1.23,15
+Nagaland,Dimapur,2019,120,84,293,100,24,2.81,83
+Nagaland,Dimapur,2020,96,174,162,91,37,0.73,77
+Nagaland,Dimapur,2021,133,175,275,90,48,2.82,70
+Nagaland,Dimapur,2022,78,165,65,78,65,0.57,70
+Nagaland,Dimapur,2023,90,45,196,47,42,1.33,149
+Nagaland,Dimapur,2024,93,149,234,28,28,0.8,81
+Mizoram,Aizawl,2019,95,67,100,44,65,3.48,122
+Mizoram,Aizawl,2020,130,229,167,95,68,2.13,118
+Mizoram,Aizawl,2021,112,184,265,63,21,2.57,12
+Mizoram,Aizawl,2022,86,69,76,65,73,3.29,73
+Mizoram,Aizawl,2023,113,197,225,84,27,2.17,40
+Mizoram,Aizawl,2024,90,63,181,34,69,1.94,97
+Mizoram,Lunglei,2019,100,117,85,89,21,3.11,137
+Mizoram,Lunglei,2020,124,205,240,85,74,2.01,40
+Mizoram,Lunglei,2021,106,188,294,23,33,1.19,41
+Mizoram,Lunglei,2022,109,143,118,62,68,2.51,141
+Mizoram,Lunglei,2023,124,105,291,95,39,2.42,93
+Mizoram,Lunglei,2024,88,203,84,54,77,1.41,40
+Arunachal Pradesh,Itanagar,2019,91,62,161,98,58,2.68,34
+Arunachal Pradesh,Itanagar,2020,112,247,60,82,52,2.19,122
+Arunachal Pradesh,Itanagar,2021,115,97,200,86,58,2.31,134
+Arunachal Pradesh,Itanagar,2022,89,159,147,77,28,0.71,88
+Arunachal Pradesh,Itanagar,2023,75,49,148,72,75,0.82,69
+Arunachal Pradesh,Itanagar,2024,102,122,198,98,23,1.18,117
+Arunachal Pradesh,Naharlagun,2019,112,186,160,65,52,2.05,110
+Arunachal Pradesh,Naharlagun,2020,96,41,179,50,51,3.46,83
+Arunachal Pradesh,Naharlagun,2021,74,57,95,99,17,0.92,134
+Arunachal Pradesh,Naharlagun,2022,136,242,204,79,53,2.94,96
+Arunachal Pradesh,Naharlagun,2023,101,151,69,66,35,3.03,135
+Arunachal Pradesh,Naharlagun,2024,113,238,84,89,78,1.46,120
+Sikkim,Gangtok,2019,92,65,299,45,60,1.25,25
+Sikkim,Gangtok,2020,92,151,107,71,27,3.08,42
+Sikkim,Gangtok,2021,113,126,297,56,21,0.87,135
+Sikkim,Gangtok,2022,104,237,145,25,25,1.85,101
+Sikkim,Gangtok,2023,70,60,152,59,37,1.84,22
+Sikkim,Gangtok,2024,80,110,100,55,11,1.26,145
+Sikkim,Namchi,2019,77,125,68,39,72,2.93,13
+Sikkim,Namchi,2020,107,120,159,81,64,2.69,88
+Sikkim,Namchi,2021,100,217,88,89,27,1.93,83
+Sikkim,Namchi,2022,97,199,157,77,64,1.52,12
+Sikkim,Namchi,2023,134,218,242,79,71,2.83,58
+Sikkim,Namchi,2024,99,219,126,47,61,2.22,35
